@@ -63,6 +63,5 @@
 </p>
 
 ## ❤ Followers
-    <img src="https://komarev.com/ghpvc/?username=FurabioDev">
 </a>
 <a href="https://github.com/FurabioDev?tab=followers"><img src="https://img.shields.io/github/followers/FurabioDev?label=Followers&style=social" alt="GitHub Badge"></a>
